@@ -16,5 +16,5 @@ spec:
     spec:
       containers:
       - name: solar
-        image: siddharth67/solar-system:v9
+        image: siddharth67/solar-system:v15
         imagePullPolicy: Always
